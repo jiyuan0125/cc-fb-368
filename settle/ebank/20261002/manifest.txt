@@ -1,0 +1,4 @@
+channel=ebank
+settle_date=20261002
+record_count=28
+total_amount=7900.30
