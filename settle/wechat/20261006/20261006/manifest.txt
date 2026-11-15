@@ -1,0 +1,4 @@
+channel=wechat
+settle_date=20261006
+record_count=48
+total_amount=14475.09

@@ -1,0 +1,8 @@
+package_path,item,declared,actual
+alipay/20261003,record_count,56,54
+alipay/20261008,record_count,53,51
+alipay/20261008,total_amount,14219.05,14217.55
+ebank/20261005,total_amount,5193.17,5194.37
+ebank/20261008,record_count,21,20
+unionpay/20261006,record_count,33,34
+wechat/20261002,total_amount,12425.68,12422.18

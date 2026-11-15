@@ -1,0 +1,4 @@
+channel=alipay
+settle_date=20261002
+record_count=47
+total_amount=14629.64

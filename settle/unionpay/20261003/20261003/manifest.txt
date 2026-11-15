@@ -1,0 +1,4 @@
+channel=unionpay
+settle_date=20261003
+record_count=41
+total_amount=13148.22
